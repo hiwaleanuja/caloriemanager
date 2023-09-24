@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168105570568",
+    "project_id": "syracuse-calorie-manager",
+    "storage_bucket": "syracuse-calorie-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168105570568:android:bcfa4575dad7406e507cbd",
+        "android_client_info": {
+          "package_name": "com.syracuse.caloriemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168105570568-saas5fp5fdbgl1db8tp2gkpbtsvgld8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPYxogDr5aMGSf3DhFL4ffa92Pch83jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168105570568-saas5fp5fdbgl1db8tp2gkpbtsvgld8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

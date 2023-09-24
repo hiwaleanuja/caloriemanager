@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.syracuse.caloriemanager.TrackingActivity">
+    <item
+        android:id="@+id/page_dashboard"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        app:showAsAction="always"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/page_diary"
+        android:icon="@drawable/ic_baseline_post_add_24"
+        app:showAsAction="always"
+        android:title="Diary" />
+
+    <item
+        android:id="@+id/page_newsfeed"
+        android:icon="@drawable/ic_baseline_newspaper_24"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+
+    <item
+        android:id="@+id/page_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="always"
+        android:title="Settings" />
+</menu>
